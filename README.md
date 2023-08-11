@@ -26,4 +26,18 @@ my ordered list
 ![beautiful image](https://cdn4.sharechat.com/img_561733_3069ad75_1676468559155_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=img_561733_3069ad75_1676468559155_sc.jpg)
 
 
+```terminal
+sudo apt install 
+sudo apt update
+sudo apt upgrade
+
+```
+
+
+```javascript
+function multiple(num1, num2) {
+    return num1*num2;
+}
+
+```
 
