@@ -20,7 +20,7 @@ my ordered list
 
 * [x] todo list 1
 * [x] todo list 2
-* [] todo list 3
+* [ ] todo list 3
 
 ###### my image:
 ![beautiful image](https://cdn4.sharechat.com/img_561733_3069ad75_1676468559155_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=img_561733_3069ad75_1676468559155_sc.jpg)
